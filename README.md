@@ -7,7 +7,7 @@
 
 ### Installation
 
-``git clone https://github.com/Galkurta/Nomis-BOT.git
+``git clone https://github.com/himiko3939/nomi.git
 ``
 
 ``
